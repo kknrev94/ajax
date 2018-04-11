@@ -1,0 +1,17 @@
+.container-fluid{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #ddd;
+}
+#latestNewsFeed{
+	color:darkblue;
+	background-color: white;
+	padding-left: 10px;
+}
+#heading{
+	padding-left: 10px;
+}
+.row{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
